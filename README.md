@@ -5,5 +5,5 @@ In this project I tried to build a Convolutional Neural Network able to digtingu
 I have worked on the copyright-free open source database "30k Cats and Dogs 150x150 Grayscale" from Kaggle.
 
 Here you can find:
-- [My Code](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
-- [My PDF Report](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats)
+- [My Code]()
+- [My PDF Report](https://github.com/ANDREAaNAPPI/-CNN-Dogs-and-Cats/blob/main/Dogs%20and%20Cats%20Report.pdf)
